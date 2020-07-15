@@ -1,0 +1,10 @@
+{
+  "Name": "AutoPetMassager",
+  "Author": "Chinhouse",
+  "Version": "1.0.0",
+  "Description": "AutoPetMassager",
+  "UniqueID": "Chinhouse.AutoPetMassager",
+  "EntryDll": "AutoPetMassager.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
